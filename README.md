@@ -1,9 +1,11 @@
 # Car Price Estimation And Machine Learning
-View project: [Car Price Estimation And Machine Learning]('https://github.com/BradyQuack/Car-Price-Estimation-And-Machine-Learning/blob/main/Project12.ipynb')
+View project: [Car Price Estimation And Machine Learning](https://github.com/BradyQuack/Car-Price-Estimation-And-Machine-Learning/blob/main/Project12.ipynb)
 ## Project Overview:
 Rusty Bargain, a leading used car sales service, is developing an innovative app that allows users to quickly determine the market value of their cars. Leveraging a rich historical dataset containing technical specifications, trim versions, and pricing information, this project aims to build and compare multiple predictive models to estimate car values accurately.
 ## Data Description:
 The dataset is stored in file /datasets/car_data.csv
+
+Features:
 
 DateCrawled — date profile was downloaded from the database
 
@@ -35,6 +37,6 @@ PostalCode — postal code of profile owner (user)
 
 LastSeen — date of the last activity of the user
 
-Target
+Target:
 
 Price — price (Euro)
